@@ -1,0 +1,7 @@
+C:\Practice\FacebookTest\FacebookSampleTest\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Practice\FacebookTest\FacebookSampleTest\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Practice\FacebookTest\FacebookSampleTest\UnitTestProject1\bin\Debug\FacebookSampleTest.exe
+C:\Practice\FacebookTest\FacebookSampleTest\UnitTestProject1\bin\Debug\FacebookSampleTest.pdb
+C:\Practice\FacebookTest\FacebookSampleTest\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Practice\FacebookTest\FacebookSampleTest\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Practice\FacebookTest\FacebookSampleTest\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
